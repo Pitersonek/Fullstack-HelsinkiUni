@@ -7,4 +7,5 @@ sequenceDiagram
     activate server
     server-->>browser: HTML document
     deactivate server
-    ```
+
+```
